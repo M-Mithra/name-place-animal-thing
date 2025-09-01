@@ -26,7 +26,7 @@ This project is a real-time multiplayer implementation of the classic "Name, Pla
 
 1. **Join or Create:** Open the app and enter a unique RoomID to join an existing game or create a new one.
 
-![JOIN](./npat_images/join.png)
+![WELCOME](./npat_images/welcome.png)
 
 
 2. **Submit Responses:** Enter your answers for Name, Place, Animal, and Thing within the designated fields before the timer runs out.
