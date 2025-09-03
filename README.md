@@ -1,7 +1,5 @@
 # Name Place Animal Thing: A Real-Time Multiplayer Game
 
-### Screenshots
-
 This project is a real-time multiplayer implementation of the classic "Name, Place, Animal, Thing" game. Built with **Socket.io** and **React**, it enables players to compete online with minimal latency. The backend, running on **Node.js** and deployed on **AWS EC2**, dynamically manages game rooms using temporary, in-memory objects to ensure synchronized state and instant updates across all clients. The system is event-driven, with the server broadcasting actions to every player in a room for a truly unified and shared gameplay experience.
 
 ### Features
